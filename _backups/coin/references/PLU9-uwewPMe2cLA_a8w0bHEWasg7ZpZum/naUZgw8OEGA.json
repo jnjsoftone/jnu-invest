@@ -1,0 +1,102 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "7SBORDDxhJHANpvPM36ck2LnJUE",
+    "id": "naUZgw8OEGA",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:58:29Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "21-3강 - 코드 정리 - 주의사항",
+      "description": "21-3강 - 코드 정리 - 주의사항",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/naUZgw8OEGA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/naUZgw8OEGA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/naUZgw8OEGA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/naUZgw8OEGA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/naUZgw8OEGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "21-3강 - 코드 정리 - 주의사항",
+        "description": "21-3강 - 코드 정리 - 주의사항"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT3M5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "110",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/naUZgw8OEGA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "21-3강 - 코드 정리 - 주의사항",
+        "description": "21-3강 - 코드 정리 - 주의사항"
+      }
+    }
+  }
+]

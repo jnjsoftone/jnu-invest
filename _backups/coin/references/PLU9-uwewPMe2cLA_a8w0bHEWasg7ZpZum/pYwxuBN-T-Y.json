@@ -1,0 +1,103 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "M3j8dzBfSXtVJy2RdrTWjm5a8Po",
+    "id": "pYwxuBN-T-Y",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:57:24Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "17강 - AI 스스로 회고 및 재귀 개선 시키기",
+      "description": "17강 - AI 스스로 회고 및 재귀 개선 시키기",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pYwxuBN-T-Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pYwxuBN-T-Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pYwxuBN-T-Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pYwxuBN-T-Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pYwxuBN-T-Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "17강 - AI 스스로 회고 및 재귀 개선 시키기",
+        "description": "17강 - AI 스스로 회고 및 재귀 개선 시키기"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT5M43S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "117",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/pYwxuBN-T-Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge",
+        "https://en.wikipedia.org/wiki/Technology"
+      ]
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "17강 - AI 스스로 회고 및 재귀 개선 시키기",
+        "description": "17강 - AI 스스로 회고 및 재귀 개선 시키기"
+      }
+    }
+  }
+]

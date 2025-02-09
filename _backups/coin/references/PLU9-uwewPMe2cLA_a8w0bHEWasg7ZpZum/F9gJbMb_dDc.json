@@ -1,0 +1,97 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "EeJaq6fF94vKUaaIRyOmLoFKwDM",
+    "id": "F9gJbMb_dDc",
+    "snippet": {
+      "publishedAt": "2024-10-07T09:19:43Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "AI시대의 새로운 투자 방법, AI 투자 자동화",
+      "description": "학습 프로그램 - AI시대의 새로운 투자 방법, AI 투자 자동화\nhttps://www.youtube.com/playlist?list=PLU9-uwewPMe2cLA_a8w0bHEWasg7ZpZum",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F9gJbMb_dDc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F9gJbMb_dDc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F9gJbMb_dDc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F9gJbMb_dDc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F9gJbMb_dDc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "AI시대의 새로운 투자 방법, AI 투자 자동화",
+        "description": "학습 프로그램 - AI시대의 새로운 투자 방법, AI 투자 자동화\nhttps://www.youtube.com/playlist?list=PLU9-uwewPMe2cLA_a8w0bHEWasg7ZpZum"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT43S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "11495",
+      "likeCount": "53",
+      "favoriteCount": "0",
+      "commentCount": "40"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/F9gJbMb_dDc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "AI시대의 새로운 투자 방법, AI 투자 자동화",
+        "description": "학습 프로그램 - AI시대의 새로운 투자 방법, AI 투자 자동화\nhttps://www.youtube.com/playlist?list=PLU9-uwewPMe2cLA_a8w0bHEWasg7ZpZum"
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "-Z_T_AyWzFHAp3JPp3nJjFQxB9w",
+    "id": "ldyjacHQCgg",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:54:17Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "7강 - 거래소 데이터 넣기",
+      "description": "7강 - 거래소 데이터 넣기",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ldyjacHQCgg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ldyjacHQCgg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ldyjacHQCgg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ldyjacHQCgg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ldyjacHQCgg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "7강 - 거래소 데이터 넣기",
+        "description": "7강 - 거래소 데이터 넣기"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT8M48S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "339",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ldyjacHQCgg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge",
+        "https://en.wikipedia.org/wiki/Technology"
+      ]
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "7강 - 거래소 데이터 넣기",
+        "description": "7강 - 거래소 데이터 넣기"
+      }
+    }
+  }
+]

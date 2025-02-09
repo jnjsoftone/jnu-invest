@@ -1,0 +1,97 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "f1SqGc0JCOVu69c1vxU3b8aOjd8",
+    "id": "IuF98HDL3Bg",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:54:45Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "11-2강 - 차트 이미지 넣기(2) - 셀레니움 스크린샷 저장",
+      "description": "11-2강 - 차트 이미지 넣기(2) - 셀레니움 스크린샷 저장",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IuF98HDL3Bg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IuF98HDL3Bg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IuF98HDL3Bg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IuF98HDL3Bg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IuF98HDL3Bg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "11-2강 - 차트 이미지 넣기(2) - 셀레니움 스크린샷 저장",
+        "description": "11-2강 - 차트 이미지 넣기(2) - 셀레니움 스크린샷 저장"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT3M41S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "171",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/IuF98HDL3Bg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "11-2강 - 차트 이미지 넣기(2) - 셀레니움 스크린샷 저장",
+        "description": "11-2강 - 차트 이미지 넣기(2) - 셀레니움 스크린샷 저장"
+      }
+    }
+  }
+]

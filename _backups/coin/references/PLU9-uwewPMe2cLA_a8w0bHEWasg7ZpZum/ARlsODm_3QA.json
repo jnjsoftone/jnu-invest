@@ -1,0 +1,97 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "YM3ZLLNAriT2x9g9KHC6_dqXDg4",
+    "id": "ARlsODm_3QA",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:54:06Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "5-5강 - 최소 기능 제품 만들기(5) - 디테일 수정 및 실제 자동매매 실행하기",
+      "description": "5-5강 - 최소 기능 제품 만들기(5) - 디테일 수정 및 실제 자동매매 실행하기",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ARlsODm_3QA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ARlsODm_3QA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ARlsODm_3QA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ARlsODm_3QA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ARlsODm_3QA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "5-5강 - 최소 기능 제품 만들기(5) - 디테일 수정 및 실제 자동매매 실행하기",
+        "description": "5-5강 - 최소 기능 제품 만들기(5) - 디테일 수정 및 실제 자동매매 실행하기"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT7M5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "180",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ARlsODm_3QA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "5-5강 - 최소 기능 제품 만들기(5) - 디테일 수정 및 실제 자동매매 실행하기",
+        "description": "5-5강 - 최소 기능 제품 만들기(5) - 디테일 수정 및 실제 자동매매 실행하기"
+      }
+    }
+  }
+]

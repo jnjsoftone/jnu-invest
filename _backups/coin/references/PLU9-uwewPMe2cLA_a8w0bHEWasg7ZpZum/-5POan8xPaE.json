@@ -1,0 +1,97 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "ORjorkgVhsEXAbiEfd46lUP5SxA",
+    "id": "-5POan8xPaE",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:54:50Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "11-3강 - 차트 이미지 넣기(3) - 셀레니움 클릭 자동화",
+      "description": "11-3강 - 차트 이미지 넣기(3) - 셀레니움 클릭 자동화",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-5POan8xPaE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-5POan8xPaE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-5POan8xPaE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-5POan8xPaE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-5POan8xPaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "11-3강 - 차트 이미지 넣기(3) - 셀레니움 클릭 자동화",
+        "description": "11-3강 - 차트 이미지 넣기(3) - 셀레니움 클릭 자동화"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT6M31S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "170",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/-5POan8xPaE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "11-3강 - 차트 이미지 넣기(3) - 셀레니움 클릭 자동화",
+        "description": "11-3강 - 차트 이미지 넣기(3) - 셀레니움 클릭 자동화"
+      }
+    }
+  }
+]

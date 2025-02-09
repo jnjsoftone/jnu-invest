@@ -1,0 +1,103 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "4LXWRNG9SBCXZbac5qQjFxzX8M8",
+    "id": "DLF86rdar3I",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:57:41Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "19-1강 - 클라우드 배포(1) - AWS 가입하기",
+      "description": "19-1강 - 클라우드 배포(1) - AWS 가입하기",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DLF86rdar3I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DLF86rdar3I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DLF86rdar3I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DLF86rdar3I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DLF86rdar3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "19-1강 - 클라우드 배포(1) - AWS 가입하기",
+        "description": "19-1강 - 클라우드 배포(1) - AWS 가입하기"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT2M22S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "136",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/DLF86rdar3I\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge",
+        "https://en.wikipedia.org/wiki/Technology"
+      ]
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "19-1강 - 클라우드 배포(1) - AWS 가입하기",
+        "description": "19-1강 - 클라우드 배포(1) - AWS 가입하기"
+      }
+    }
+  }
+]

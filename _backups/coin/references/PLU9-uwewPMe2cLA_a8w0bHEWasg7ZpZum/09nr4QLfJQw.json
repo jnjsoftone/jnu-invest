@@ -1,0 +1,97 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "OJhCvKc7gwxurCfapngssXedi1o",
+    "id": "09nr4QLfJQw",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:57:13Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "15강 - 전략 다듬기 - 한국 코인계 전설 ‘워뇨띠’님의 전략 복사하기",
+      "description": "15강 - 전략 다듬기 - 한국 코인계 전설 ‘워뇨띠’님의 전략 복사하기",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/09nr4QLfJQw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/09nr4QLfJQw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/09nr4QLfJQw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/09nr4QLfJQw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/09nr4QLfJQw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "15강 - 전략 다듬기 - 한국 코인계 전설 ‘워뇨띠’님의 전략 복사하기",
+        "description": "15강 - 전략 다듬기 - 한국 코인계 전설 ‘워뇨띠’님의 전략 복사하기"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT11M34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "138",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/09nr4QLfJQw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "15강 - 전략 다듬기 - 한국 코인계 전설 ‘워뇨띠’님의 전략 복사하기",
+        "description": "15강 - 전략 다듬기 - 한국 코인계 전설 ‘워뇨띠’님의 전략 복사하기"
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "kind": "youtube#video",
+    "etag": "tckhVDth24cU1z2ri3LvbgEimZU",
+    "id": "35sfonWDjYs",
+    "snippet": {
+      "publishedAt": "2024-09-23T05:52:58Z",
+      "channelId": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "title": "5-2강 - 최소 기능 제품 만들기(2) - 업비트 차트 데이터 가져오기",
+      "description": "5-2강 - 최소 기능 제품 만들기(2) - 업비트 차트 데이터 가져오기",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/35sfonWDjYs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/35sfonWDjYs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/35sfonWDjYs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/35sfonWDjYs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/35sfonWDjYs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "조코딩 JoCoding",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "5-2강 - 최소 기능 제품 만들기(2) - 업비트 차트 데이터 가져오기",
+        "description": "5-2강 - 최소 기능 제품 만들기(2) - 업비트 차트 데이터 가져오기"
+      },
+      "defaultAudioLanguage": "ko"
+    },
+    "contentDetails": {
+      "duration": "PT3M4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "regionRestriction": {
+        "allowed": [
+          "AR",
+          "BR",
+          "CA",
+          "CO",
+          "HK",
+          "IN",
+          "JP",
+          "KR",
+          "MX",
+          "TW",
+          "US"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "status": {
+      "uploadStatus": "processed",
+      "privacyStatus": "public",
+      "license": "youtube",
+      "embeddable": true,
+      "publicStatsViewable": true,
+      "madeForKids": false
+    },
+    "statistics": {
+      "viewCount": "245",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/35sfonWDjYs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    },
+    "topicDetails": {
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    },
+    "recordingDetails": {},
+    "localizations": {
+      "ko": {
+        "title": "5-2강 - 최소 기능 제품 만들기(2) - 업비트 차트 데이터 가져오기",
+        "description": "5-2강 - 최소 기능 제품 만들기(2) - 업비트 차트 데이터 가져오기"
+      }
+    }
+  }
+]
